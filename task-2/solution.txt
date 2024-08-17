@@ -6,3 +6,12 @@ mkdir task-2
 cd task-2
 touch greetings.txt
 nano greetings.txt
+git add .
+git commit -m "Added greetings"
+git push
+git branch intro
+git checkout intro
+nano greetings.txt
+git add .
+git commit -m "Added I love Git"
+git checkout main
