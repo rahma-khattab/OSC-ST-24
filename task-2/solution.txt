@@ -14,3 +14,4 @@ git checkout intro
 nano greetings.txt
 git add .
 git commit -m "Added I love Git"
+git checkout main
