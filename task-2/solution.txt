@@ -1,0 +1,8 @@
+git config --global user.name rahma-khattab
+git config --global user.email rahmakhattab07@gmail.com
+git clone https://github.com/rahma-khattab/OSC-ST-24.git
+cd OSC-ST-24
+mkdir task-2
+cd task-2
+touch greetings.txt
+nano greetings.txt
